@@ -16,7 +16,6 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/mattcoding4days/Shran?color=red">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/mattcoding4days/Shran?style=social">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mattcoding4days/Shran?style=social">
-  <iframe src="https://discord.com/widget?id=909988908572491826&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </div>
 
 ### :information_source: Automate Bitcoin builds, speed up deployment
