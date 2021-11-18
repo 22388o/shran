@@ -2,9 +2,9 @@ use thiserror::Error;
 
 #[derive(Error, Debug)]
 pub enum ShranError<'ebuf> {
-    #[error("Error: {found:?} file does not exist\nFile: {file:?}\nLine: {line:?}")]
+    #[error("Error: {msg:?} file does not exist\nFile: {file:?}\nLine: {line:?}")]
     BuildFileError {
-        found: String,
+        msg: String,
         file: &'ebuf str,
         line: u32,
     },
